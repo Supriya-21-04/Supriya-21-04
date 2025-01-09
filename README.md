@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Supriya</h1>
 <h3 align="center">A web developer in progress, with a passion for math and aptitude, currently diving into machine learning.</h3>
 
-- 🔭 I’m currently working on **I’m currently working on Full-stack web development with Flask, HTML, CSS, JavaScript, and Node.js.**
+- 🔭 I’m currently working on **Full-stack web development with Flask, HTML, CSS, JavaScript, and Node.js.**
 
-- 🌱 I’m currently learning **I’m currently learning Machine Learning, Node.js, and React.**
+- 🌱 I’m currently learning **Machine Learning, Node.js, and React.**
 
 - 👯 I’m looking to collaborate on **Web development or machine learning-related projects!**
 
