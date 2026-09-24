@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Supriya</h1>
 
-<h3 align="center">Statistics • Machine Learning • Data Science</h3>
+<h3 align="center">
+Statistics • Machine Learning • Data Science
+</h3>
 
-<p align="center">
-MSc Statistics @ IIT Bombay
-</p>
+- 🎓 MSc Statistics student at **IIT Bombay**, with a background in **Information Science Engineering**.
 
-<p align="center">
-I'm interested in statistics, machine learning, and data science.
-I've worked on projects involving machine learning, NLP, web development,
-and IoT, and enjoy exploring new technologies through hands-on projects.
-</p>
+- 🤖 Interested in **Machine Learning, NLP, Statistical Modelling, and Data Analysis**.
+
+- 🛠️ Built projects across **Machine Learning, NLP, Web Development, IoT, and Financial Data**.
+
+- 🐍 Mostly work with **Python and R**, along with tools from the ML and data science ecosystem.
+
+- 👯 Looking to collaborate on **ML, Data Science, or Statistics projects**.
+
+- 📫 Reach me at **supriya21404@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
