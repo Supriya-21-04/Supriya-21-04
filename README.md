@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Supriya</h1>
 
-<h3 align="center">Statistics • Machine Learning • Data Science • Quantitative Finance</h3>
+<h3 align="center">Statistics • Machine Learning • Data Science</h3>
 
 <p align="center">
 MSc Statistics @ IIT Bombay
+</p>
+
+<p align="center">
+I'm interested in statistics, machine learning, and data science.
+I've worked on projects involving machine learning, NLP, web development,
+and IoT, and enjoy exploring new technologies through hands-on projects.
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -46,10 +52,6 @@ MSc Statistics @ IIT Bombay
 
 <a href="https://pytorch.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
 </a>
 
 <a href="https://huggingface.co/" target="_blank">
